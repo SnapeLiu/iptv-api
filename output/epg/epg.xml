@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<tv date="20260411120623 +0800">
+	<channel id="CCTV-5">
+		<display-name lang="zh">CCTV-5</display-name>
+	</channel>
+	<programme channel="CCTV-5" start="20260411000000 +0800" stop="20260411005000 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411005000 +0800" stop="20260411010500 +0800">
+		<title lang="zh">20252026赛季斯诺克世界公开赛决赛塔猜亚的147</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411010500 +0800" stop="20260411023600 +0800">
+		<title lang="zh">2025年世界田联钻石联赛巴黎站</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411023600 +0800" stop="20260411040000 +0800">
+		<title lang="zh">20252026赛季中国男子篮球职业联赛第35轮上海久事—长白山恩都里</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411040000 +0800" stop="20260411053000 +0800">
+		<title lang="zh">国际足球赛场2526赛季英超联赛第29轮伍尔弗汉普顿利物浦</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411053000 +0800" stop="20260411060000 +0800">
+		<title lang="zh">2026年米兰科尔蒂纳冬奥会高山滑雪男子超级大回转(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411060000 +0800" stop="20260411063000 +0800">
+		<title lang="zh">2026年米兰科尔蒂纳冬奥会滑雪登山女子男子短距离(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411063000 +0800" stop="20260411070000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411070000 +0800" stop="20260411080300 +0800">
+		<title lang="zh">体坛晨报</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411080300 +0800" stop="20260411090000 +0800">
+		<title lang="zh">2026年世界室内田径锦标赛2</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411090000 +0800" stop="20260411113000 +0800">
+		<title lang="zh">20252026赛季美国职业篮球联赛常规赛(雷霆掘金)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411113000 +0800" stop="20260411115500 +0800">
+		<title lang="zh">2026年世界室内田径锦标赛25分钟版</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411115500 +0800" stop="20260411120000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411120000 +0800" stop="20260411123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411123500 +0800" stop="20260411125500 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411125500 +0800" stop="20260411130000 +0800">
+		<title lang="zh">健身动起来</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411130000 +0800" stop="20260411140000 +0800">
+		<title lang="zh">2026年国际乒联单打世界杯女单比赛</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411140000 +0800" stop="20260411153000 +0800">
+		<title lang="zh">20252026赛季欧洲篮球联赛第37轮费内巴切—皇家马德里</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411153000 +0800" stop="20260411160000 +0800">
+		<title lang="zh">20252026西班牙足球甲级联赛第30轮集锦(4K)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411160000 +0800" stop="20260411161500 +0800">
+		<title lang="zh">精彩一刻20252026斯诺克世界公开赛奥沙利文的153</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411161500 +0800" stop="20260411163000 +0800">
+		<title lang="zh">荣耀十分2026年蹦床世界杯阿尔克马尔站王梓赛获金牌</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411163000 +0800" stop="20260411180000 +0800">
+		<title lang="zh">20252026赛季中国男子篮球职业联赛第37轮北京控股—北京北汽</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411180000 +0800" stop="20260411183000 +0800">
+		<title lang="zh">体育新闻</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411183000 +0800" stop="20260411205500 +0800">
+		<title lang="zh">2026年亚洲羽毛球锦标赛半决赛2</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411205500 +0800" stop="20260411230000 +0800">
+		<title lang="zh">2026亚足联女足U20亚洲杯14决赛(中国乌兹别克斯坦)</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411230000 +0800" stop="20260411233000 +0800">
+		<title lang="zh">精品赛事记录2026年世界泳联花样游泳世界杯法国站中国队2金1银</title>
+	</programme>
+	<programme channel="CCTV-5" start="20260411233000 +0800" stop="20260411235900 +0800">
+		<title lang="zh">2026年国际乒联单打世界杯1</title>
+	</programme>
+	<channel id="CCTV-5+">
+		<display-name lang="zh">CCTV-5+</display-name>
+	</channel>
+	<programme channel="CCTV-5+" start="20260411000000 +0800" stop="20260411003500 +0800">
+		<title lang="zh">精彩呈现</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411003500 +0800" stop="20260411010600 +0800">
+		<title lang="zh">2026年世界速度滑冰全能和短距离锦标赛25分钟版</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411010600 +0800" stop="20260411023600 +0800">
+		<title lang="zh">20252026赛季中国男子篮球职业联赛第33轮广东东阳光—江苏肯帝亚</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411023600 +0800" stop="20260411040000 +0800">
+		<title lang="zh">国际足球赛场2526赛季法甲联赛第12轮里昂—巴黎圣日耳曼(4K)</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411040000 +0800" stop="20260411060000 +0800">
+		<title lang="zh">20252026赛季斯诺克西安大奖赛决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411060000 +0800" stop="20260411073000 +0800">
+		<title lang="zh">2025年世界田联钻石联赛洛桑站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411073000 +0800" stop="20260411083000 +0800">
+		<title lang="zh">2026年世界短道速滑锦标赛2</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411083000 +0800" stop="20260411100000 +0800">
+		<title lang="zh">2026年世界男子冰壶锦标赛1</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411100000 +0800" stop="20260411110000 +0800">
+		<title lang="zh">2026年体操世界杯安塔利亚站1</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411110000 +0800" stop="20260411120000 +0800">
+		<title lang="zh">2026年国际马联国家联赛奥卡拉站</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411120000 +0800" stop="20260411130000 +0800">
+		<title lang="zh">2026年国际乒联单打世界杯男单比赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411130000 +0800" stop="20260411150500 +0800">
+		<title lang="zh">2026年亚洲羽毛球锦标赛半决赛1</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411150500 +0800" stop="20260411160000 +0800">
+		<title lang="zh">2026年世界泳联花样游泳世界杯法国站1</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411160000 +0800" stop="20260411170000 +0800">
+		<title lang="zh">2026年国际乒联单打世界杯女单比赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411170000 +0800" stop="20260411183000 +0800">
+		<title lang="zh">2026年亚洲羽毛球锦标赛半决赛2</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411183000 +0800" stop="20260411193000 +0800">
+		<title lang="zh">2026年蹦床世界杯阿尔克马尔站1</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411193000 +0800" stop="20260411213000 +0800">
+		<title lang="zh">20252026赛季中国男子篮球职业联赛常规赛第37轮(山西汾酒新疆伊力特)</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411213000 +0800" stop="20260411233500 +0800">
+		<title lang="zh">2026年ATP1000男子网球大师赛蒙特卡洛站半决赛</title>
+	</programme>
+	<programme channel="CCTV-5+" start="20260411233500 +0800" stop="20260411235900 +0800">
+		<title lang="zh">20252026赛季中国排球超级联赛女排决赛第一场</title>
+	</programme>
+</tv>
